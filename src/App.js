@@ -22,11 +22,11 @@ const App = () => {
       <Navbar />
 
       <Switch>
-      <Route exact path="/" component={Homepage} />
-      <Route path="/attractions" component={AttractionsLister} />
-      <Route path="/restaurants" component={FoodanddrinkLister} />
-      <Route path="/highstreet" component={HighStreetLister} />
-      <Route path="/cafes" component={CafesLister} />
+      <Route exact path="/react-dunbar-pages" component={Homepage} />
+      <Route path="/react-dunbar-pages/attractions" component={AttractionsLister} />
+      <Route path="/react-dunbar-pages/restaurants" component={FoodanddrinkLister} />
+      <Route path="/react-dunbar-pages/highstreet" component={HighStreetLister} />
+      <Route path="/react-dunbar-pages/cafes" component={CafesLister} />
       </Switch>
 
       <Footer />
