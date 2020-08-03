@@ -38,7 +38,7 @@ const Home = () => {
           <div className="menu-banner-style">
             
           <div>
-            <Link to="/attractions">
+            <Link to="/react-dunbar-pages/attractions">
             <div className="menu-home">
             <img src={harbour} alt="dunbar harbour" />
             <h1 className="menu-title-home"> LOCAL ATTRACTIONS</h1>
@@ -47,7 +47,7 @@ const Home = () => {
           </div>
 
           <div>
-            <Link to="/foodanddrink">
+            <Link to="/react-dunbar-pages/foodanddrink">
             <div className="menu-home">
             <img src={foodndrink} alt="food and drink" />
             <h1 className="menu-title-home"> RESTAURANTS</h1>
@@ -56,7 +56,7 @@ const Home = () => {
           </div>
 
           <div>
-            <Link to="/highstreet">
+            <Link to="/react-dunbar-pages/highstreet">
             <div className="menu-home">
             <img src={highstreet} alt="high street" />
             <h1 className="menu-title-home"> THE HIGH STREET</h1>
@@ -65,7 +65,7 @@ const Home = () => {
           </div>
 
           <div>
-            <Link to="/cafes">
+            <Link to="/react-dunbar-pages/cafes">
             <div className="menu-home">
             <img src={cafe} alt="cafe" />
             <h1 className="menu-title-home"> CAFES</h1>

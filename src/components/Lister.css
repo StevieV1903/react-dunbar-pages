@@ -95,3 +95,19 @@
     background-color: #ffffff;
     color: #00144b;
   }
+
+  .lister-body-container {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+  }
+
+  .lister-body-text {
+    line-height: 1.5;
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Nunito';
+    margin-top: 1.5em;
+    margin-left: 2em;
+    margin-right: 5em;
+  }

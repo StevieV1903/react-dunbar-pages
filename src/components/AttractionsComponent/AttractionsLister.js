@@ -18,6 +18,15 @@ const AttractionsLister = () => {
     <>
       <h1 className="lister-main-header">Dunbar Attractions</h1>
 
+      <body>
+        <div className="lister-body-container">
+          <p className="lister-body-text">
+          Dunbar is located on the North Sea coast of East Lothian, about 30 miles to the east of Edinburgh along the A1. The area around Dunbar is renowned for its high sunshine record, rugged coastline and beautiful countryside. The town's coastline is home to some of Scotland's best beaches and supports a wide range of habitats, birds and plants and covers some of the most spectacular East Lothian coastline.
+          <br /><br />
+          </p>
+        </div>
+      </body>
+
       <div className="lister-banner">
       <div className="lister-container">
 
