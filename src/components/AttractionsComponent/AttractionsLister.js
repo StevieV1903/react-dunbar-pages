@@ -21,7 +21,7 @@ const AttractionsLister = () => {
       <body>
         <div className="lister-body-container">
           <p className="lister-body-text">
-          Dunbar is located on the North Sea coast of East Lothian, about 30 miles to the east of Edinburgh along the A1. The area around Dunbar is renowned for its high sunshine record, rugged coastline and beautiful countryside. The town's coastline is home to some of Scotland's best beaches and supports a wide range of habitats, birds and plants and covers some of the most spectacular East Lothian coastline.
+          Dunbar and the surrounding area is host to a wide variety of fantastic attractions with something for all the family. From strolls along the coastline, relaxing on the fabulous beaches and a leisurely game of golf to wake boarding, zip trails, surfing and awesome cycle routes.
           <br /><br />
           </p>
         </div>
@@ -32,7 +32,7 @@ const AttractionsLister = () => {
 
         <div className="lister-item">
           <img src={harbour} alt="dunbar harbour" />
-          <h1 className="lister-title"> Dunbar Harbour</h1>
+          <h1 className="lister-title"> Dunbar Harbour & Battery</h1>
           <p className="lister-detail">
           A town of three harbours, Dunbar was once a major herring and whaling port. Its old harbour dates from the 17th century. It is a working harbour with a commercial fleet landing mainly shellfish. The harbour is also home to one of the largest lifeboat stations in the area.
         </p>

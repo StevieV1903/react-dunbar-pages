@@ -17,6 +17,15 @@ const FoodanddrinkLister = () => {
     <>
       <h1 className="lister-main-header">Dunbar Restaurants</h1>
 
+      <body>
+          <div className="lister-body-container">
+            <p className="lister-body-text">
+              Dunbar is home to some top notch chefs and award-winning restaurants offering a wide variety of cuisines and regularly changing menus made from freshly prepared produce. From freshly caught seafood to the latest Asian and Indian dishes, you are spoilt for choice.
+              <br /><br />
+            </p>
+          </div>
+        </body>
+
       
       <div className="lister-banner">
       <div className="lister-container">

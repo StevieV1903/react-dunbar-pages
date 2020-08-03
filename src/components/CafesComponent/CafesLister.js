@@ -17,6 +17,15 @@ const AttractionsLister = () => {
     <>
         <h1 className="lister-main-header">Dunbar Cafes</h1>
 
+        <body>
+          <div className="lister-body-container">
+            <p className="lister-body-text">
+              Dunbar is home to some fabulous cafes where you can enjoy a freshly roasted brew and some amazing home baked cakes and scones. Watch the world go by in a quaint high street haunt or arrange to meet with groups of friends for a catch up and a chin wag over a huge selection of teas coffees and tray-bakes.
+              <br /><br />
+            </p>
+          </div>
+        </body>
+
       
       <div className="lister-banner">
 
