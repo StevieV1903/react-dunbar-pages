@@ -1,0 +1,97 @@
+.lister-main-header {
+    justify-self: start;
+    margin-top: 3em;
+    margin-left: 1em;
+    margin-bottom: 0.75em;
+    font-size: 48px;
+  }
+
+  .lister-banner {
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    justify-self: center;
+    width: 100%;
+  }
+  
+  .lister-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+  
+  }
+  
+  .lister-item {
+    box-shadow: 0 4px 4px 0 #00000033;
+    max-width: 320px;
+    height: 650px;
+    text-align: center;                  
+    padding: 1em;
+    margin: 1.5em;
+    background-color: #f8f8ff;
+  }
+  
+  .lister-item img {
+    width: 260px;
+    height: 180px;
+    border: 1px solid black;
+    border-radius: 20px 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    padding: 0;
+  }
+  
+  .lister-title {
+    color: #555454;
+    font-size: 22px;
+    font-family: "Nunito";
+    padding: 0.5em;
+  }
+
+  .lister-detail {
+    text-align: center;                  
+    font-size: 18px;
+  }
+
+  .link-lister {
+    border: 1px solid black;
+    background-color: #00144b;
+    color: #ffffff;
+    padding: 0.2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 17px;
+    font-family: "Nunito";
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+    
+  }
+  
+  .link-lister:hover {
+    background-color: #ffffff;
+    color: #00144b;
+  }
+
+  .map-link {
+    border: 1px solid black;
+    background-color: #00144b;
+    color: #ffffff;
+    padding: 0.2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 17px;
+    font-family: "Nunito";
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+    
+  }
+  
+  .map-link:hover {
+    background-color: #ffffff;
+    color: #00144b;
+  }
