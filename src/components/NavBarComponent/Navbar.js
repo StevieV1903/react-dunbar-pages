@@ -12,27 +12,27 @@ const Navbar = () => {
         
         <ul className="navbar-nav">
             <li>
-                <Link to="/" className="navlink">
+                <Link to="/react-dunbar-pages" className="navlink">
                     home
                 </Link>
             </li>
             <li>
-                <Link to="/attractions" className="navlink">
+                <Link to="/react-dunbar-pages/attractions" className="navlink">
                     attractions
                 </Link>
             </li>
             <li>
-                <Link to="/restaurants" className="navlink">
+                <Link to="/react-dunbar-pages/restaurants" className="navlink">
                     restaurants
                 </Link>
             </li>
             <li>
-                <Link to="/highstreet" className="navlink">
+                <Link to="/react-dunbar-pages/highstreet" className="navlink">
                     high street
                 </Link>
             </li>
             <li>
-                <Link to="/cafes" className="navlink">
+                <Link to="/react-dunbar-pages/cafes" className="navlink">
                     cafes
                 </Link>
             </li>
