@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-dunbar-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-dunbar-pages/static/js/main.c9cbeafc.chunk.js",
+    "main.js.map": "/react-dunbar-pages/static/js/main.c9cbeafc.chunk.js.map",
+    "runtime-main.js": "/react-dunbar-pages/static/js/runtime-main.1edc008d.js",
+    "runtime-main.js.map": "/react-dunbar-pages/static/js/runtime-main.1edc008d.js.map",
+    "static/js/2.2cf68a69.chunk.js": "/react-dunbar-pages/static/js/2.2cf68a69.chunk.js",
+    "static/js/2.2cf68a69.chunk.js.map": "/react-dunbar-pages/static/js/2.2cf68a69.chunk.js.map",
+    "index.html": "/react-dunbar-pages/index.html",
+    "precache-manifest.c0d5d3f92ba128c5c674d3983af1716e.js": "/react-dunbar-pages/precache-manifest.c0d5d3f92ba128c5c674d3983af1716e.js",
+    "service-worker.js": "/react-dunbar-pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-dunbar-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2cf68a69.chunk.js.LICENSE.txt": "/react-dunbar-pages/static/js/2.2cf68a69.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-dunbar-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1edc008d.js",
+    "static/js/2.2cf68a69.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c9cbeafc.chunk.js"
+  ]
+}
