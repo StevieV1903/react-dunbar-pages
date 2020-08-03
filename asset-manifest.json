@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/react-dunbar-pages/static/css/main.3eb9aefe.chunk.css",
-    "main.js": "/react-dunbar-pages/static/js/main.61bc2f83.chunk.js",
-    "main.js.map": "/react-dunbar-pages/static/js/main.61bc2f83.chunk.js.map",
+    "main.js": "/react-dunbar-pages/static/js/main.f411aafe.chunk.js",
+    "main.js.map": "/react-dunbar-pages/static/js/main.f411aafe.chunk.js.map",
     "runtime-main.js": "/react-dunbar-pages/static/js/runtime-main.1edc008d.js",
     "runtime-main.js.map": "/react-dunbar-pages/static/js/runtime-main.1edc008d.js.map",
-    "static/js/2.11b4135a.chunk.js": "/react-dunbar-pages/static/js/2.11b4135a.chunk.js",
-    "static/js/2.11b4135a.chunk.js.map": "/react-dunbar-pages/static/js/2.11b4135a.chunk.js.map",
+    "static/js/2.6f827a03.chunk.js": "/react-dunbar-pages/static/js/2.6f827a03.chunk.js",
+    "static/js/2.6f827a03.chunk.js.map": "/react-dunbar-pages/static/js/2.6f827a03.chunk.js.map",
     "index.html": "/react-dunbar-pages/index.html",
-    "precache-manifest.9bea2b442e718a693cd6db36bd9c530a.js": "/react-dunbar-pages/precache-manifest.9bea2b442e718a693cd6db36bd9c530a.js",
+    "precache-manifest.b4583fc9090571b2559a81221104db2b.js": "/react-dunbar-pages/precache-manifest.b4583fc9090571b2559a81221104db2b.js",
     "service-worker.js": "/react-dunbar-pages/service-worker.js",
     "static/css/main.3eb9aefe.chunk.css.map": "/react-dunbar-pages/static/css/main.3eb9aefe.chunk.css.map",
-    "static/js/2.11b4135a.chunk.js.LICENSE.txt": "/react-dunbar-pages/static/js/2.11b4135a.chunk.js.LICENSE.txt",
+    "static/js/2.6f827a03.chunk.js.LICENSE.txt": "/react-dunbar-pages/static/js/2.6f827a03.chunk.js.LICENSE.txt",
     "static/media/1650coffee.jpg": "/react-dunbar-pages/static/media/1650coffee.7a052518.jpg",
     "static/media/alpacas.jpg": "/react-dunbar-pages/static/media/alpacas.5eac7d86.jpg",
+    "static/media/belhavenbikes.jpg": "/react-dunbar-pages/static/media/belhavenbikes.68151bca.jpg",
+    "static/media/bowesports.jpg": "/react-dunbar-pages/static/media/bowesports.60dce56f.jpg",
     "static/media/cafe.jpg": "/react-dunbar-pages/static/media/cafe.d4a5598c.jpg",
     "static/media/communitybakery.jpg": "/react-dunbar-pages/static/media/communitybakery.68525180.jpg",
     "static/media/creel.jpg": "/react-dunbar-pages/static/media/creel.4491894e.jpg",
@@ -31,6 +33,7 @@
     "static/media/highstreet.jpg": "/react-dunbar-pages/static/media/highstreet.7f1d36d3.jpg",
     "static/media/jmcountrypark.jpg": "/react-dunbar-pages/static/media/jmcountrypark.01f5faac.jpg",
     "static/media/kingspalace.jpg": "/react-dunbar-pages/static/media/kingspalace.efa6e729.jpg",
+    "static/media/knox.jpg": "/react-dunbar-pages/static/media/knox.fb75be43.jpg",
     "static/media/makery.jpg": "/react-dunbar-pages/static/media/makery.efc6ca22.jpg",
     "static/media/shapla.png": "/react-dunbar-pages/static/media/shapla.e14bacd6.png",
     "static/media/sweetiebank.png": "/react-dunbar-pages/static/media/sweetiebank.05dcff6b.png",
@@ -40,8 +43,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1edc008d.js",
-    "static/js/2.11b4135a.chunk.js",
+    "static/js/2.6f827a03.chunk.js",
     "static/css/main.3eb9aefe.chunk.css",
-    "static/js/main.61bc2f83.chunk.js"
+    "static/js/main.f411aafe.chunk.js"
   ]
 }
