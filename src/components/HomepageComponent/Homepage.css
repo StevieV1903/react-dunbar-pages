@@ -41,7 +41,7 @@ h1 {
 
 @media screen and (max-width: 575px) {
   h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 }
 
@@ -90,10 +90,10 @@ h2 {
   box-shadow: 0 2px 2px 0 #00000033;
   max-width: 300px;
   text-align: center;
-  padding: 1em;
+  padding: 0.5em;
   background-color: #f8f8ff;
   transition: 0.5s;
-  margin: 1em;
+  margin: 0.5em;
 
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 .menu-home img {
-  width: 280px;
+  width: 270px;
   height: 200px;
   border: 1px solid black;
   border-radius: 20px 50px;
@@ -116,7 +116,7 @@ h2 {
 .menu-title-home {
   background-color: black;
   color: white;
-  font-size: 26px;
+  font-size: 24px;
   font-family: "Nunito";
   padding: 0.3em;
   border: solid white;
@@ -137,7 +137,7 @@ h2 {
   }
 
   .menu-title-home {
-    font-size: 20px;
+    font-size: 18px;
     font-family: "Nunito";
     padding: 0.1em;
     border: solid white;
