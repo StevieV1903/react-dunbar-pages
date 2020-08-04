@@ -7,7 +7,7 @@ import flux from "../../assets/highstreetimg/fluxstore.png"
 import sweetiebank from "../../assets/highstreetimg/sweetiebank.png"
 import makery from "../../assets/highstreetimg/makery.jpg"
 import belhavenbikes from "../../assets/highstreetimg/belhavenbikes.jpg"
-import knox from "../../assets/highstreetimg/knox.jpg"
+import knox from "../../assets/highstreetimg/knox.png"
 import bowesports from "../../assets/highstreetimg/bowesports.jpg"
 
 const HighStreetLister = () => {
