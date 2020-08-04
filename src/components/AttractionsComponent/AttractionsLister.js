@@ -6,6 +6,9 @@ import dunbear from "../../assets/attractionsimg/dunbear.jpg"
 import jmcountrypark from "../../assets/attractionsimg/jmcountrypark.jpg"
 import alpacas from "../../assets/attractionsimg/alpacas.jpg"
 import harbour from "../../assets/attractionsimg/harbour.jpg"
+import strawberrybarn from "../../assets/attractionsimg/strawberrybarn.png"
+import dunbargolf from "../../assets/attractionsimg/dunbargolf.jpg"
+import coasttocoast from "../../assets/attractionsimg/coasttocoast.jpg"
 
 
 const AttractionsLister = () => {
@@ -111,6 +114,45 @@ const AttractionsLister = () => {
         <a className="link-lister" href="https://www.foxlake.co.uk/"> visit website </a>
         <br /><br />
         <a className="map-link" href="https://www.google.com/maps/place/Foxlake+Adventures+CIC/@55.991372,-2.5906687,17z/data=!3m1!4b1!4m14!1m8!2m7!1sjohn+muir+country+park!3m5!1sjohn+muir+country+park!2s55.997898,+-2.574802!4m2!1d-2.5748023!2d55.9978975!3m4!1s0x48870f508f87c00b:0xb5b2ba804a01a6a!8m2!3d55.991372!4d-2.58848"> view location </a>
+        <br /><br />
+        </div>
+
+        <div className="lister-item">
+          <img src={strawberrybarn} alt="strawberry barn" />
+          <h1 className="lister-title">Strawberry Barn</h1>
+          <p className="lister-detail">
+          The Strawberry Barn is a beautiful destination for all the family to enjoy. Located just outside Dunbar, it is easily accessed from the A1. Specifically designed for easy access to 25,000 Strawberry Plants the Pick Your Own experience is a memorable day out in July and August.
+          </p>
+          <br />
+        <a className="link-lister" href="https://thestrawberrybarn.co.uk/"> visit website </a>
+        <br /><br />
+        <a className="map-link" href="https://www.google.com/maps/place/The+Strawberry+Barn/@55.989619,-2.5638659,17z/data=!3m1!4b1!4m5!3m4!1s0x48870f6f051d9b97:0xd2dc8fc72e7bf86b!8m2!3d55.989619!4d-2.5616772"> view location </a>
+        <br /><br />
+        </div>
+
+        <div className="lister-item">
+          <img src={dunbargolf} alt="dunbar golf club" />
+          <h1 className="lister-title">Dunbar Golf Club</h1>
+          <p className="lister-detail">
+          To play on the Open qualifying championship links is to play within yards of waves as they crash onto the rocky shore. Pit yourself against a course made by nature and then man's best efforts over 150 years. Walk in the footsteps of some of the greatest golfers in the world.
+          </p>
+          <br />
+        <a className="link-lister" href="https://www.dunbargolfclub.com/"> visit website </a>
+        <br /><br />
+        <a className="map-link" href="https://www.google.com/maps/place/Dunbar+Golf+Club/@55.9976763,-2.5017927,17z/data=!3m1!4b1!4m5!3m4!1s0x48870ff96688337b:0xae488b1644fe2414!8m2!3d55.9976763!4d-2.499604"> view location </a>
+        <br /><br />
+        </div>
+
+        <div className="lister-item">
+          <img src={coasttocoast} alt="coast to coast" />
+          <h1 className="lister-title">Coast To Coast</h1>
+          <p className="lister-detail">
+          Coast to Coast is Scotland’s premier destination for surfing and coastal adventure sports. They provide high quality instruction with a team of experienced instructors offering innovative lessons and courses in the sports of Surfing, Stand Up Paddling and Coasteering.
+          </p>
+          <br />
+        <a className="link-lister" href="https://www.c2csurfschool.com/"> visit website </a>
+        <br /><br />
+        <a className="map-link" href="https://www.google.com/maps/place/Coast+to+Coast+Surf+School/@56.0001753,-2.5452974,17z/data=!3m1!4b1!4m5!3m4!1s0x48870ff55e0c9df1:0x5d1e817e86888564!8m2!3d56.0001753!4d-2.5431087"> view location </a>
         <br /><br />
         </div>
       
