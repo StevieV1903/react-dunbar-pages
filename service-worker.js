@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-dunbar-pages/precache-manifest.99b9d111d6500009a997c77cbae30ed8.js"
+  "/react-dunbar-pages/precache-manifest.9c12e0ee0315729e3a934651129ce798.js"
 );
 
 self.addEventListener('message', (event) => {
