@@ -25,8 +25,8 @@
   
   .lister-item {
     box-shadow: 0 4px 4px 0 #00000033;
-    max-width: 320px;
-    height: 650px;
+    max-width: 360px;
+    height: 600px;
     text-align: center;                  
     padding: 1em;
     margin: 1.5em;
@@ -48,10 +48,8 @@
     color: #555454;
     font-size: 20px;
     font-family: "Nunito";
-    padding-top: 0.5em;
+    padding-top: 1.75em;
     text-align: center;
-    display: flex;
-    flex-wrap: wrap;
   }
 
   .lister-detail {
@@ -109,7 +107,7 @@
     line-height: 1.5;
     font-size: 20px;
     text-align: justify;
-    font-family: 'Nunito';
+    font-family: 'Lato';
     margin-top: 1.5em;
     margin-left: 2em;
     margin-right: 5em;
