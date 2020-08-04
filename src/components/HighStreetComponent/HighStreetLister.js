@@ -138,7 +138,7 @@ const HighStreetLister = () => {
 
         <div className="lister-item">
           <img src={knox} alt="knox newsagents" />
-          <h1 className="lister-title"> Knox Newsagent & Garden Centre</h1>
+          <h1 className="lister-title"> Knox's</h1>
           <p className="lister-detail">
           Knox Newsagent and Garden Centre is very friendly family run business. The staff are super helpful and go above and beyond. The shop is like a tardis with everthing you need from a newsagents and garden centre, including a reat selection of plants at reasonable very prices."
         </p>
@@ -151,7 +151,7 @@ const HighStreetLister = () => {
 
         <div className="lister-item">
           <img src={bowesports} alt="bowe sports shop" />
-          <h1 className="lister-title"> Bowe Sports & Leisurewear</h1>
+          <h1 className="lister-title"> Bowe Sports</h1>
           <p className="lister-detail">
           Looking for great casual clothes or sports goods, pop into Dunbar’s independent sport and leisurewear shop. Suppliers of sports equipment, clothing and footwear for all the family and stockists of many of the major sporting brands. They also stock surfing gear including wetsuits & boots.
         </p>
