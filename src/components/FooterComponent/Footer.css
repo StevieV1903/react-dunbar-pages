@@ -32,28 +32,39 @@
     padding: 25px;
   }
 
-  @media screen and (max-width: 760px) {
-    .footer-text { 
-      font-size: 16px;
-      font-weight: normal;
-      margin-left: 0.5em;
-    }
+  /* RESPONSIVE RULES */
+  
+  @media screen and (max-width: 768px) {
+    
     .social-footer, img {
       height: 35px;
       width: 35px;
-      padding: 10px;
+      margin: 10px;
+    }
+    .footer-text { 
+      font-size: 16px;
+      margin-right: 80px;
     }
   }
 
-  @media screen and (max-width: 440px) {
+  @media screen and (max-width: 415px) {
+    
+    .social-footer, img {
+      height: 35px;
+      width: 35px;
+      margin: 2px;
+    }
     .footer-text { 
       font-size: 14px;
-      font-weight: normal;
-      margin-left: 0.1em;
+      margin-right: 20px;
     }
+  }
+
+  @media screen and (max-width: 360px) {
+    
     .social-footer, img {
-      height: 30px;
-      width: 30px;
-      padding: 5px;
+      height: 35px;
+      width: 35px;
+      margin: 2px;
     }
   }
