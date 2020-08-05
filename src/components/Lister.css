@@ -5,14 +5,6 @@
     font-size: 48px;
   }
 
-  @media screen and (max-width: 600px) {
-    .lister-main-header {
-      margin-left: 0.5em;
-      margin-bottom: 0.3em;
-      font-size: 36px;
-    }
-  }
-
   .lister-body-container {
     margin: 2em;
     margin-left: 3em;
@@ -23,13 +15,6 @@
     font-size: 20px;
     text-align: justify;
     font-family: 'Lato';
-  }
-
-  @media screen and (max-width: 750px) {
-
-    .lister-body-text {
-      font-size: 18px;
-    }
   }
 
   .lister-banner {
@@ -83,32 +68,6 @@
     font-size: 18px;
   }
 
-  @media screen and (max-width: 850px) {
-    .lister-item {
-    
-      max-width: 300px;
-      height: 500px;              
-      padding: 0.5em;
-      margin: 0.5em;
-  }
-
-  .lister-item img {
-    width: 240px;
-    height: 160px;
-    margin-top: 0.5em;
-    padding: 0;
-  }
-
-  .lister-title {
-    font-size: 18px;
-    padding-top: 1em;
-  }
-
-  .lister-detail {              
-    font-size: 16px;
-  }
-}
-
   .link-lister {
     border: 1px solid black;
     background-color: #00144b;
@@ -148,5 +107,55 @@
     background-color: #ffffff;
     color: #00144b;
   }
+
+   /* RESPONSIVE RULES */
+
+   @media screen and (max-width: 768px) {
+    
+    .lister-item {
+      max-width: 320px;             
+      padding: 0.5em;
+      margin: 0.5em;
+    }
+
+    .lister-title {
+      font-size: 17px;
+      padding-top: 1em;
+    }
+
+    .lister-detail {              
+      font-size: 17px;
+    }
+  }
+
+  @media screen and (max-width: 415px) {
+
+    .lister-main-header {
+      margin-top: 150px;
+      font-size: 30px;
+      margin-left: 0.5em; 
+    }
+    .lister-body-container {
+      margin: 1em;
+    }
+  
+    .lister-body-text {
+      font-size: 18px;
+    }
+  }
+
+  @media screen and (max-width: 360px) {
+
+    .lister-main-header {
+      font-size: 24px;
+      margin-left: 0.5em; 
+    }
+  }
+
+ 
+
+
+
+  
 
   
