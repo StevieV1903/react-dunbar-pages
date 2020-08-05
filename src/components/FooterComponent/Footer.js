@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import './Footer.css'
 import twitter from "../../assets/socialimg/twitter.png";
 import instagram from "../../assets/socialimg/instagram.png";
@@ -13,8 +13,6 @@ const Footer = () => {
   
     return (
         <nav className="footer">
-
-                <p className="footer-text">  &copy; StevieV1903 </p>
         
         <ul className="footer-nav">
 
@@ -43,20 +41,11 @@ const Footer = () => {
                 </a>
                 
         </ul>
+        <div className="footer-text"> 
+        <p> &copy; StevieV1903 </p>
+        </div>
         </nav>
     );
 }
 
 export default Footer;
-
-{/* <footer>
-    <p>&copy; 2020 Harrison Booth </p>
-
-    <nav id="files">
-      <ul class="horizontal-list">
-        <li><a href="#cookies">cookie policy</a></li>
-        <li><a href="#privacy">privacy policy</a></li>
-        <li><a href="#terms">terms of use</a></li>
-      </ul>
-    </nav>
-  </footer> */}
