@@ -15,7 +15,7 @@ header {
 
 .title {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
@@ -25,14 +25,14 @@ header {
 h1 {
   text-transform: uppercase;
   margin: 0;
-  font-size: 4rem;
+  font-size: 82px;
   white-space: nowrap;
   font-weight: bold;
 }
 
 h2 {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 20px;
     padding-top: 3em;
   }
 
@@ -42,7 +42,7 @@ h2 {
 
 .homepage-body-text {
   line-height: 1.5;
-  font-size: 20px;
+  font-size: 22px;
   text-align: justify;
   font-family: 'Nunito';
 }
@@ -164,7 +164,9 @@ h2 {
 }
 
 @media screen and (max-width: 360px) {
-  
+  .title {
+    top: 50%;  
+  }
   h1 {
     font-size: 26px;
   }

@@ -1,5 +1,6 @@
 import React, {useEffect} from "react";
 import { Link } from "react-router-dom";
+import Video from "../VideoComponent/Video.js"
 import "./Homepage.css";
 import harbour from "../../assets/attractionsimg/harbour.jpg";
 import highstreet from "../../assets/homeimg/highstreet.jpg";
@@ -75,6 +76,8 @@ const Home = () => {
         
           </div>
         </nav>
+
+        <Video />
         
     </>
   );
