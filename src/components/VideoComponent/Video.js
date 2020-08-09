@@ -6,16 +6,19 @@ import './Video.css'
 function Video() {
     return (
       <div className="video-container">
-        <h3 className="video-text">
+      <h3 className="video-text">
           WATCH: Danny MacAskill stunt-biking in and around the turquoise waters of Dunbar Harbour...
         </h3>
-        <div className="video-player">
-          <wrapper className="video">
+      <div className="player-wrapper">
+        <div className="react-player">
         <ReactPlayer
-          url="https://www.youtube.com/watch?v=kWkFYZnbPSY"
+          url={"https://www.youtube.com/watch?v=kWkFYZnbPSY"}
+          width='100%'
+          height='100%'
+          controls={true}
         />
-        </wrapper>
         </div>
+      </div>
       </div>
     )
   }

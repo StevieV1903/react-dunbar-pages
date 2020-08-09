@@ -2,7 +2,7 @@
     background-color: #b9f2fc;
     width: 100%;
     height: 100%;
-    border-top: solid 2px darkblue;
+    border-top: solid 5px darkblue;
 }
 
 .video-text {
@@ -10,21 +10,33 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    padding-top: 20px;
     font-family: 'Lato';
     line-height: 1.5;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
-.video-player {
+  .player-wrapper {
+    position: relative;
+    padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+  }
+   
+  .react-player {
+    position: absolute;
+    top: 5%;
+    left: 9%;
+    width: 80%;
+    height: 80%;
+
+    border: solid 2px black;
+    box-shadow: 0 15px 15px 0 #00000033;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    padding: 10px;
-    padding-bottom: 50px;
+    
+    
+  }
 
-  }
-  .video {
-      border: solid 2px black;
-      box-shadow: 0 15px 15px 0 #00000033;
-  }
