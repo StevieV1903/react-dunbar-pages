@@ -99,7 +99,7 @@
 
   @media screen and (max-width: 470px) {
     .navbar {
-      grid-template-columns: auto 180px;
+      grid-template-columns: auto 140px;
     }
     .navlink {
       font-size: 20px;
@@ -107,6 +107,7 @@
     }
     .navlink:hover {
       font-size: 20px;
+      background-color: transparent;
     }
     .navbar-nav {
       display: block;

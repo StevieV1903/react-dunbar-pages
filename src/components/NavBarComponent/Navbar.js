@@ -15,7 +15,7 @@ const Navbar = () => {
 
             <div className="navbar-home">
         
-                <Link to="/">
+                <Link to="/react-dunbar-pages">
                 <img src={Home} />
                 </Link>
 
