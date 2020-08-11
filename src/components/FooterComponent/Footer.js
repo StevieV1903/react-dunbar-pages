@@ -1,6 +1,5 @@
 import React from "react";
-// import { Link } from "react-router-dom";
-import './Footer.css'
+import './Footer.css';
 import twitter from "../../assets/socialimg/twitter.png";
 import instagram from "../../assets/socialimg/instagram.png";
 import email from "../../assets/socialimg/email.png";
@@ -41,9 +40,11 @@ const Footer = () => {
                 </a>
                 
         </ul>
+        
         <div className="footer-text"> 
         <p> &copy; StevieV1903 </p>
         </div>
+        
         </nav>
     );
 }

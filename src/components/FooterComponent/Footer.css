@@ -5,7 +5,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
-    margin-top: 50px;
+    /* margin-top: 50px; */
   }
 
   .footer-nav {
@@ -52,7 +52,23 @@
     }
   }
 
-  @media screen and (max-width: 415px) {
+  @media screen and (max-width: 620px) {
+    
+    .social-footer, img {
+      height: 36px;
+      width: 36px;
+      margin: 10px;
+    }
+    .footer-nav {
+      margin-left: 15px; 
+    }
+    .footer-text { 
+      font-size: 16px;
+      margin-right: 50px;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
     
     .social-footer, img {
       height: 25px;
