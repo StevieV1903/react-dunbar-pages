@@ -33,6 +33,8 @@
 
   .navlink {
     color: #edf1f2;
+    font-family: 'Archivo', sans-serif;
+    font-weight: bold;
     font-size: 26px;
     padding-top: 35px;
     padding-bottom: 35px;
@@ -102,11 +104,11 @@
       grid-template-columns: auto 140px;
     }
     .navlink {
-      font-size: 20px;
+      font-size: 22px;
       line-height: 1.3;
     }
     .navlink:hover {
-      font-size: 20px;
+      font-size: 22px;
       background-color: transparent;
     }
     .navbar-nav {
