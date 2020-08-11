@@ -77,7 +77,7 @@ const Home = () => {
           </div>
         </nav>
 
-        <Video />
+        <Video url="https://www.youtube.com/watch?v=kWkFYZnbPSY" />
         
     </>
   );
