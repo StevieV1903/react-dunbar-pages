@@ -10,6 +10,7 @@
     top: 0;
     width: 100%;
     height: 120px; 
+    box-shadow: 0 0 25px 0 black;
   }
 
   .navbar-home {
@@ -32,24 +33,47 @@
   }
 
   .navlink {
-    color: #edf1f2;
+    /* color: #edf1f2; */
     font-family: 'Archivo', sans-serif;
     font-weight: bold;
     font-size: 26px;
-    padding-top: 35px;
+    /* padding-top: 35px;
     padding-bottom: 35px;
     padding-right: 15px;
-    padding-left: 15px;
+    padding-left: 15px; */
     margin-right: 1.5em;
     transition: 0.5s;
     width: 100%;
+
+    position: relative;
+    padding: 4px 0;
+    color: #ecf0f1;
   }
 
+.navlink::after {
+      position: absolute;
+      content: "";
+      top: 100%;
+      left: 0;
+      width: 100%;
+      height: 3px;
+      background: #3498db;
+      transform: scaleX(0);
+      transform-origin: right;
+      transition: transform 0.5s;
+    }
+  
+
   .navlink:hover {
-    background-color: #008299;
-    text-decoration: underline;
     font-size: 28px;
+    color: #95a5a6;
   }
+
+  .navlink:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+
 
 
 
@@ -87,7 +111,19 @@
 
     .navlink:hover {
       font-size: 24px;
+      color: #95a5a6;
+      text-decoration: underline;
+      text-decoration-color: #3498db;
     }
+
+    .navlink::after {
+      content: none;
+    }
+
+    .navlink:hover::after {
+      content: none;
+    }
+    
 
     .navbar-nav {
       flex-wrap: wrap;
@@ -106,6 +142,7 @@
     .navlink {
       font-size: 22px;
       line-height: 1.3;
+      font-weight: normal;
     }
     .navlink:hover {
       font-size: 22px;
