@@ -1,9 +1,9 @@
-// import React from 'react';
-// import logo from './logo.svg';
-// import './App.css';
 
-import React from 'react';
+import React, {useEffect} from 'react';
 import { BrowserRouter, Switch, Route } from "react-router-dom";
+import ReactGa from 'react-ga';
+
+
 import Navbar from "./components/NavBarComponent/Navbar.js";
 import Homepage from "./components/HomepageComponent/Homepage.js";
 import Footer from "./components/FooterComponent/Footer.js"
@@ -13,7 +13,13 @@ import HighStreetLister from "./components/HighStreetComponent/HighStreetLister.
 import CafesLister from "./components/CafesComponent/CafesLister.js"
 
 
-const App = () => {
+function App () {
+
+  useEffect(() => {
+      ReactGa.initialize('UA-175226508-1')
+
+      ReactGa.pageview(window.pathname.location + window.location.search)
+  }, []);
   
   return (
     <BrowserRouter>
