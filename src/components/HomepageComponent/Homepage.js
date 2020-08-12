@@ -48,7 +48,7 @@ const Home = () => {
           </div>
 
           <div>
-            <Link to="/react-dunbar-pages/foodanddrink">
+            <Link to="/react-dunbar-pages/restaurants">
             <div className="menu-home">
             <img src={foodndrink} alt="food and drink" />
             <h1 className="menu-title-home"> RESTAURANTS</h1>

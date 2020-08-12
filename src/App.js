@@ -15,12 +15,6 @@ import CafesLister from "./components/CafesComponent/CafesLister.js"
 
 function App () {
 
-  // useEffect(() => {
-  //     ReactGA.initialize('UA-175226508-1')
-
-  //     ReactGA.pageview(window.pathname.location + window.location.search)
-  // }, []);
-
   useEffect(() => {
     ReactGA.initialize('UA-175226508-1');
     
