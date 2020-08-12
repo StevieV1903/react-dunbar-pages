@@ -15,11 +15,11 @@ import CafesLister from "./components/CafesComponent/CafesLister.js"
 
 function App () {
 
-  useEffect(() => {
-      ReactGa.initialize('UA-175226508-1')
+  // useEffect(() => {
+  //     ReactGa.initialize('UA-175226508-1')
 
-      ReactGa.pageview(window.pathname.location + window.location.search)
-  }, []);
+  //     ReactGa.pageview(window.pathname.location + window.location.search)
+  // }, []);
   
   return (
     <BrowserRouter>
@@ -28,7 +28,7 @@ function App () {
       <Navbar />
 
       <Switch>
-      <Route exact path="/react-dunbar-pages" component={Homepage} />
+      <Route exact path="/react-dunbar-pages/" component={Homepage} />
       <Route path="/react-dunbar-pages/attractions" component={AttractionsLister} />
       <Route path="/react-dunbar-pages/restaurants" component={FoodanddrinkLister} />
       <Route path="/react-dunbar-pages/highstreet" component={HighStreetLister} />
