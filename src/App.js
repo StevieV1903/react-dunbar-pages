@@ -20,6 +20,12 @@ function App () {
 
   //     ReactGA.pageview(window.pathname.location + window.location.search)
   // }, []);
+
+  useEffect(() => {
+    ReactGA.initialize('UA-175226508-1');
+    
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, [])
   
   return (
     <BrowserRouter>
