@@ -1,7 +1,7 @@
 
 import React, {useEffect} from 'react';
 import { BrowserRouter, Switch, Route } from "react-router-dom";
-import ReactGa from 'react-ga';
+import ReactGA from 'react-ga';
 
 
 import Navbar from "./components/NavBarComponent/Navbar.js";
@@ -16,9 +16,9 @@ import CafesLister from "./components/CafesComponent/CafesLister.js"
 function App () {
 
   // useEffect(() => {
-  //     ReactGa.initialize('UA-175226508-1')
+  //     ReactGA.initialize('UA-175226508-1')
 
-  //     ReactGa.pageview(window.pathname.location + window.location.search)
+  //     ReactGA.pageview(window.pathname.location + window.location.search)
   // }, []);
   
   return (
