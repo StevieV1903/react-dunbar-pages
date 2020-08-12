@@ -2,7 +2,7 @@
   "name": "react-dunbar-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://steviev1903.github.io/react-dunbar-pages",
+  "homepage": "http://steviev1903.github.io/react-dunbar-pages/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
