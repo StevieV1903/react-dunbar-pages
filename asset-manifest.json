@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-dunbar-pages/static/css/main.998f04b6.chunk.css",
+    "main.css": "/react-dunbar-pages/static/css/main.9cfbad87.chunk.css",
     "main.js": "/react-dunbar-pages/static/js/main.07b3ba4a.chunk.js",
     "main.js.map": "/react-dunbar-pages/static/js/main.07b3ba4a.chunk.js.map",
     "runtime-main.js": "/react-dunbar-pages/static/js/runtime-main.1edc008d.js",
@@ -8,9 +8,9 @@
     "static/js/2.80c15ee7.chunk.js": "/react-dunbar-pages/static/js/2.80c15ee7.chunk.js",
     "static/js/2.80c15ee7.chunk.js.map": "/react-dunbar-pages/static/js/2.80c15ee7.chunk.js.map",
     "index.html": "/react-dunbar-pages/index.html",
-    "precache-manifest.cd92fea4c632ab6153255ff18a536c34.js": "/react-dunbar-pages/precache-manifest.cd92fea4c632ab6153255ff18a536c34.js",
+    "precache-manifest.0270b119b27019a5f433bcec375deeee.js": "/react-dunbar-pages/precache-manifest.0270b119b27019a5f433bcec375deeee.js",
     "service-worker.js": "/react-dunbar-pages/service-worker.js",
-    "static/css/main.998f04b6.chunk.css.map": "/react-dunbar-pages/static/css/main.998f04b6.chunk.css.map",
+    "static/css/main.9cfbad87.chunk.css.map": "/react-dunbar-pages/static/css/main.9cfbad87.chunk.css.map",
     "static/js/2.80c15ee7.chunk.js.LICENSE.txt": "/react-dunbar-pages/static/js/2.80c15ee7.chunk.js.LICENSE.txt",
     "static/media/1650coffee.jpg": "/react-dunbar-pages/static/media/1650coffee.7a052518.jpg",
     "static/media/alpacas.jpg": "/react-dunbar-pages/static/media/alpacas.5eac7d86.jpg",
@@ -48,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.1edc008d.js",
     "static/js/2.80c15ee7.chunk.js",
-    "static/css/main.998f04b6.chunk.css",
+    "static/css/main.9cfbad87.chunk.css",
     "static/js/main.07b3ba4a.chunk.js"
   ]
 }
