@@ -8,19 +8,19 @@ import linkedin from "../../assets/socialimg/linkedin.png";
 
 
 const Footer = () => {
-  
-  
+
+
     return (
         <nav className="footer">
-        
+
         <ul className="footer-nav">
 
                 <a href="https://www.linkedin.com/in/stevevance/">
                     <li>
-                        <img src={linkedin} alt="linkedin" /> 
+                        <img src={linkedin} alt="linkedin" />
                     </li>
                 </a>
-                   
+
                 <a href="https://twitter.com/stevievance">
                     <li>
                         <img src={twitter} alt="twitter" />
@@ -29,7 +29,7 @@ const Footer = () => {
 
                 <a href="https://www.instagram.com/steviev1903/">
                     <li>
-                        <img src={instagram} alt="instagram" /> 
+                        <img src={instagram} alt="instagram" />
                     </li>
                 </a>
 
@@ -38,13 +38,13 @@ const Footer = () => {
                     <img src={email} alt="email" />
                 </li>
                 </a>
-                
+
         </ul>
-        
-        <div className="footer-text"> 
-        <p> &copy; StevieV1903 </p>
+
+        <div className="footer-text">
+        <p> &copy;2020 StevieV1903 </p>
         </div>
-        
+
         </nav>
     );
 }
