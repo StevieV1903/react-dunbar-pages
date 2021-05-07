@@ -35,8 +35,7 @@ The website is aimed at promoting my local town to encourage locals to support t
 
 <img width="600" alt="Screenshot 2021-05-07 at 13 31 18" src="https://user-images.githubusercontent.com/56826534/117450027-9eab7c00-af38-11eb-8305-dfebe882b989.png">
 
-<img width="200" alt="Screenshot 2021-05-07 at 13 40 31" src="https://user-images.githubusercontent.com/56826534/117450978-d4049980-af39-11eb-9035-d3cdca1a9a44.png">
-<img width="200" alt="Screenshot 2021-05-07 at 13 41 53" src="https://user-images.githubusercontent.com/56826534/117451138-07dfbf00-af3a-11eb-9284-1871dd3037e2.png">
+<img width="200" alt="Screenshot 2021-05-07 at 13 40 31" src="https://user-images.githubusercontent.com/56826534/117450978-d4049980-af39-11eb-9035-d3cdca1a9a44.png"><img width="200" alt="Screenshot 2021-05-07 at 13 41 53" src="https://user-images.githubusercontent.com/56826534/117451138-07dfbf00-af3a-11eb-9284-1871dd3037e2.png">
 
 
 
