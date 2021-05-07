@@ -1,4 +1,4 @@
-# [Dunbar Website](https://steviev1903.github.io/react-dunbar-pages/) 
+# [Discovering Dunbar](https://steviev1903.github.io/react-dunbar-pages/) 
 
 This is a fully-responsive react.js website set up as a personal project to develop further CSS skills, navigation and media queries to ensure that the components were responsive in nature to every device. The website also embeds a youtube video on its homepage, highlighting the lovely coastline.
 
