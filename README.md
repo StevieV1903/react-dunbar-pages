@@ -1,8 +1,8 @@
 # Dunbar Website 
 
-Waste-Not Want-Not is a react-native.js mobile application designed to fight unnecessary food waste. It allows the user to search through a list of ingredients and the app fetches from 'spoonacular' api to recommend recipes based on the tagged ingredients. It also allows users to add any 'intolerances' which is then factored into the recipe search.
+This is a fully-responsive react.js website set up as a personal project to develop further CSS skills, navigation and media queries to ensure that the components were responsive in nature to every device. 
 
-> A react-native / firebase application that can be run on android or IOS. 
+The website is aimed at promoting my local town to encourage locals to support the local economy post covid-19.
 
 ---
 
