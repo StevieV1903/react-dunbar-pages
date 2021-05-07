@@ -5,6 +5,8 @@ This is a fully-responsive react.js website set up as a personal project to deve
 
 The website is aimed at promoting my local town to encourage locals to support the local economy post covid-19 and is hosted on github pages.
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ---
 
 ## Installation
@@ -27,7 +29,8 @@ The website is aimed at promoting my local town to encourage locals to support t
 > npm start
 ```
 
-> this will open the application in a browser tab. 
+> Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 
 ### Web Screenshots
 
