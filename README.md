@@ -17,13 +17,13 @@ The website is aimed at promoting my local town to encourage locals to support t
 > Install packages
 
 ```shell
-$ npm install
+> npm install
 ```
 
 > Start the application
 
 ```shell
-$ npm start
+> npm start
 ```
 
 > this will open the application in a browser tab. 
